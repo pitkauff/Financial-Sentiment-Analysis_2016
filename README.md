@@ -1,6 +1,7 @@
 # Financial Sentiment Analysis
 
-This project
+This project was part of TO 412 - Big DataTools for Data Management and Acquisition at The Ross School of Business.
 
-* This project aims to identify whether or not social media sentiment (particularly Twitter) can impact a publicly traded stock (TSLA)
-* We indentified Tesla as being a company that is closely watched and scrutinized by the public and often appears in news headlines, due to its innovative technology as well as production as safety challenges
+**Problem Statement**
+
+This project attempts to identify whether or not sentiment as expressed over social media (via sides such as Twitter or Facebook) can have an economic effect on a company. Specifically, we focused on analyzing the impact of tweets on Tesla's (TSLA) stock price. Tesla was being identified as an event driven company as well as a "sensation" stock, i.e. a security that is closely watched by the public for numerous reasons.
